@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: anujtyagi1404/maven
-  tag: latest
+  tag: 3
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
