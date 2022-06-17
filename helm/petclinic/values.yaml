@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: initsixcloud/petclinic
+  repository: anujtyagi1404/maven
   tag: latest
   pullPolicy: IfNotPresent
 
